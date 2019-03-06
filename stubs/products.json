@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Desi",
+    "price": 120,
+    "image": "images/desi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brazen",
+    "price": 60,
+    "image": "images/brazen.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Everly",
+    "price": 48,
+    "image": "images/everly.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jimmy",
+    "price": 32,
+    "image": "images/jimmy.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Julian",
+    "price": 56,
+    "image": "images/julian.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Albany",
+    "price": 16,
+    "image": "images/albany.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Charlie",
+    "price": 82,
+    "image": "images/charlie.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hoxton",
+    "price": 35,
+    "image": "images/hoxton.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bluberry",
+    "price": 60,
+    "image": "images/mulberry.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Macq",
+    "price": 75,
+    "image": "images/macq.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Planet",
+    "price": 22,
+    "image": "images/planet.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Blair",
+    "price": 48,
+    "image": "images/Blair.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dakota",
+    "price": 75,
+    "image": "images/dakota.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Lucas",
+    "price": 16,
+    "image": "images/lucas.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Casey",
+    "price": 72,
+    "image": "images/casey.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Reggie",
+    "price": 45,
+    "image": "images/reggie.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Red-Diff",
+    "price": 60,
+    "image": "images/Red-Diff.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Cat",
+    "price": 75,
+    "image": "images/Cat.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Asian",
+    "price": 36,
+    "image": "images/Asian.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Blacksilver",
+    "price": 75,
+    "image": "images/blacksilver.jpg"
+  }
+]

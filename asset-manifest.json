@@ -1,0 +1,16 @@
+{
+  "main.css": "/glass-shop/static/css/main.66a5a0de.chunk.css",
+  "main.js": "/glass-shop/static/js/main.67321f67.chunk.js",
+  "main.js.map": "/glass-shop/static/js/main.67321f67.chunk.js.map",
+  "static/js/1.ed18ffe1.chunk.js": "/glass-shop/static/js/1.ed18ffe1.chunk.js",
+  "static/js/1.ed18ffe1.chunk.js.map": "/glass-shop/static/js/1.ed18ffe1.chunk.js.map",
+  "runtime~main.js": "/glass-shop/static/js/runtime~main.d32aadde.js",
+  "runtime~main.js.map": "/glass-shop/static/js/runtime~main.d32aadde.js.map",
+  "static/css/main.66a5a0de.chunk.css.map": "/glass-shop/static/css/main.66a5a0de.chunk.css.map",
+  "static/media/cart.jpg": "/glass-shop/static/media/cart.62e96ce8.jpg",
+  "static/media/Glass.jpg": "/glass-shop/static/media/Glass.f268fa0f.jpg",
+  "static/media/empty_cart.jpg": "/glass-shop/static/media/empty_cart.34946170.jpg",
+  "index.html": "/glass-shop/index.html",
+  "precache-manifest.d8a8aa33b43ddea8f811a7153799e8ed.js": "/glass-shop/precache-manifest.d8a8aa33b43ddea8f811a7153799e8ed.js",
+  "service-worker.js": "/glass-shop/service-worker.js"
+}
